@@ -1,0 +1,14 @@
+.cart{
+    background-color: rgba(0, 136, 255, 0.3);
+    padding: 25px;
+    position: sticky;
+    top: 0;
+    height: 944px;
+    
+}
+.cart h2{
+    margin-bottom: 5px;
+}
+.cart p{
+    font-size: 17px;
+}

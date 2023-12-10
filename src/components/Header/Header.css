@@ -1,0 +1,26 @@
+.header{
+    height: 80px;
+    background-color: rgb(169,169,169);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 0px 0px 0px 8px;
+    font-size: 20px;
+   
+}
+.login{
+    color: black;
+}
+
+nav.header a{
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+    
+}
+
+nav.header a:hover{
+    color: skyblue;
+}
